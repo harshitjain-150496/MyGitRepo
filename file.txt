@@ -2,11 +2,11 @@ class HelloWorld{
 
 public static void main(){
 
-System.out.print("hello world");
+System.out.print("fir se bohot ho gya");
 
 }
 void show hi(){
-System.out.println("hi");
+System.out.println("");
 
 }
 }
