@@ -2,7 +2,8 @@ class HelloWorld{
 
 public static void main(){
 
-System.out.print("fir se bohot ho gya");
+
+System.out.print("bohot ho gya ab");
 
 }
 void show hi(){
